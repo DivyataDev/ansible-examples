@@ -1,6 +1,6 @@
 # ansible-examples
 Steps to implement Ansible
-1. Create 2 servers ansible_server and target_server, on AWS cloud : 
+1. Create 2 servers ansible_server and target_server, on AWS cloud portal : 
    <img width="815" height="187" alt="image" src="https://github.com/user-attachments/assets/d35d1509-0f24-4967-a8fe-625607140a69" />
 
 2. On Ansible Server (Ubuntu Server) :
